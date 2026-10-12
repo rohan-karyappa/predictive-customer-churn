@@ -87,15 +87,6 @@ rf_model.fit(X_train, y_train)
 
 ---
 
-## 🚀 How to Run
-
-To replicate this project, you will need to:
-1.  Set up a SQL Server instance and import the raw data from the `/data/raw` folder.
-2.  Run the script in the `/sql/` folder to explore/clean the data and to create views as well.
-3.  Execute the Jupyter Notebook in `/notebook/` to generate the prediction CSV.
-4.  (Optional) Connect Power BI or your preferred visualization tool to the local SQL views and generated predictions to analyze insights.
-
----
 
 ## 💡 Future Improvements
 
