@@ -3,15 +3,13 @@
 ![Tech Stack](https://img.shields.io/badge/Tech-SQL%20Server%20%7C%20Power%20BI%20%7C%20Python-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-An end-to-end analytics project that identifies key drivers of customer churn and predicts future churn using a multi-tool stack. This repository contains the SQL scripts for ETL, a Python notebook for machine learning, and a link to the final interactive Power BI dashboard.
+An end-to-end analytics project that identifies key drivers of customer churn and predicts future churn using a multi-tool stack. This repository contains the SQL scripts for ETL, a Python notebook for machine learning, and the interactive Power BI dashboard report (`Customer_Churn_Dashboard.pbix`).
 
 ---
 
-## 📊 Live Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The final output is an interactive dashboard that provides a high-level summary of churn metrics and a detailed view of customers predicted to churn.
-
-**[>> Click Here to View the Live Dashboard <<](https://app.powerbi.com/groups/me/reports/8540484e-2a0e-41ed-b79d-0f081474c0f5/df8446097b1c4aabc259?experience=power-bi)**
 
 ![Dashboard Screenshot 1](assets/screenshots/Churn_Summary.PNG)
 ![Dashboard Screenshot 2](assets/screenshots/Churn_Predictions.PNG)
