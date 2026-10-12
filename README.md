@@ -93,7 +93,7 @@ To replicate this project, you will need to:
 1.  Set up a SQL Server instance and import the raw data from the `/data/raw` folder.
 2.  Run the script in the `/sql/` folder to explore/clean the data and to create views as well.
 3.  Execute the Jupyter Notebook in `/notebook/` to generate the prediction CSV.
-4.  Open the `.pbix` file and refresh the data sources to point to your local SQL database and the generated prediction file.
+4.  (Optional) Connect Power BI or your preferred visualization tool to the local SQL views and generated predictions to analyze insights.
 
 ---
 
